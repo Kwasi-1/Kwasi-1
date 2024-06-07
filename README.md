@@ -34,9 +34,9 @@ I'm Nana Kwasi, a passionate frontend developer dedicated to crafting beautiful 
 
 ### GitHub Stats
 
-![Nana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Nana's GitHub Stats](https://github-readme-stats.vercel.app/api?Kwasi-1=your-Kwasi-1&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Kwasi-1=your-Kwasi-1&layout=compact&theme=radical)
 
 ### Support My Work
 
