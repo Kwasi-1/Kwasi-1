@@ -4,15 +4,14 @@
 
 ### About Me
 
-I'm Nana Kwasi, a passionate frontend developer dedicated to crafting beautiful and functional web applications. My journey in web development has led me to focus on mastering modern technologies like React, Next.js, and TypeScript to build efficient and scalable solutions.
+I'm Nana Kwasi, a passionate frontend developer and full-stack enthusiast. I specialize in building **responsive, scalable, and interactive web and mobile applications** using modern frameworks. My work focuses on delivering high-quality UI/UX and leveraging **AI-assisted tools** to optimize web solutions.
 
-- 🔭 I’m currently diving deep into frontend projects, continuously improving my skills.
-- 🌱 Always eager to learn, I’m exploring advanced frontend frameworks, libraries, and internationalization techniques.
-- 👯 I’m excited to collaborate on web development projects with other enthusiasts.
-- 🤔 I’m looking for guidance on advanced React patterns, state management techniques, and multilingual support.
-- 💬 Feel free to ask me anything about frontend development, React, Next.js, and UI/UX best practices.
-- 📫 You can reach me at [affulnana04@gmail.com](mailto:affulnana04@gmail.com).
-- ⚡ Fun fact: I have a keen interest in architecture and I love watching comedy movies.
+- 🔭 I’m currently working on **ConnectXus**, a campus social media and tutoring platform, and several POS & e-commerce projects.  
+- 🌱 Continuously exploring **advanced React patterns, Flutter cross-platform apps, and internationalization (i18n)**.  
+- 👯 Open to collaborations on web, mobile, and AI-assisted projects.  
+- 💬 Ask me about **React, Next.js, Flutter, TypeScript, Tailwind CSS, and UI/UX best practices**.  
+- 📫 Reach me at [affulnana04@gmail.com](mailto:affulnana04@gmail.com).  
+- ⚡ Fun fact: I enjoy **architecture, tech experiments, and comedy movies**.  
 
 ### Technologies I Use
 
@@ -22,23 +21,37 @@ I'm Nana Kwasi, a passionate frontend developer dedicated to crafting beautiful 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=323330) 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
-![Internationalization (i18n)](https://img.shields.io/badge/i18n-007ACC?style=for-the-badge&logo=translate&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![i18n](https://img.shields.io/badge/i18n-007ACC?style=for-the-badge&logo=translate&logoColor=white)  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-F26D21?style=for-the-badge&logo=mapbox&logoColor=white)
 
 ### My Projects
 
-- 🌟 **Portfolio Website**: A showcase of my projects and skills. Check it out on [GitHub](https://afful-nana-kwasi.netlify.app/).
-- 🔧 **Autochef Website**: A user-friendly autoshop website built with React and Next.js. Explore the code on [GitHub](https://github.com/Kwasi-1/autochef-frontend).
-- 📚 **Swissbik**: A minimalistic finanical management platform with multilingual support. Visit the project on [Swissbik](https://swissbik-save.vercel.app/en).
+- 🌟 **ConnectXus**: Campus social media and tutoring app (Flutter Mobile & Web). Real-time messaging, profiles, and role-based access. [GitHub](https://github.com/Kwasi-1/connectxus)  
+- 🛒 **CampuZon**: Campus e-commerce platform for shops and stores, built with React, Next.js, and Tailwind CSS. [GitHub](https://github.com/Kwasi-1/campuzon)  
+- 🔧 **AutoChef**: Auto repair booking platform with a user-friendly interface, built using MERN Stack. [GitHub](https://github.com/Kwasi-1/autochef-frontend)  
+- 💳 **POS Systems for SMEs**: Inventory, sales tracking, and reporting dashboards for multiple clients with secure payment integration. [GitHub](https://github.com/Kwasi-1/pos-sme)  
+- 📚 **Swissbik**: Finance management web app with multilingual support and secure authentication. [Live Demo](https://swissbik-save.vercel.app/en)  
+- 🚌 **Campus Bus Tracker App**: Real-time hostel bus tracking with ETA alerts, role-based access, and multi-bus 3D simulation using Mapbox & Three.js. [GitHub](https://github.com/Kwasi-1/campus-bus-tracker)  
+- 🏥 **Pharmacy Inventory System**: Terminal-based application demonstrating core DSA concepts for inventory management. [GitHub](https://github.com/Kwasi-1/pharmacy-inventory)
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nana-kwasi-afful-700a1b283/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
 
 ### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kwasi-1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Stats](https://raw.githubusercontent.com/Kwasi-1/github-stats)
 
-![Nana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kwasi-1&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwasi-1&layout=compact&theme=radical)  
+### GitHub Stats (Working Alternative)
+
+![Top Languages](https://img.shields.io/github/languages/top/Kwasi-1?style=for-the-badge&logo=github&logoColor=white)  
+![Total Repos](https://img.shields.io/github/repos/Kwasi-1?style=for-the-badge&logo=github&logoColor=white)  
+![Followers](https://img.shields.io/github/followers/Kwasi-1?style=for-the-badge&logo=github&logoColor=white)  
+![Stars](https://img.shields.io/github/stars/Kwasi-1?style=for-the-badge&logo=github&logoColor=white)
 
 ### Support My Work
 
